@@ -3,6 +3,8 @@ stats](https://github-readme-stats.vercel.app/api?username=priesgo&show_icons=tr
 
 👋 Hola\! I’m a bioinformatician interested on variant calling, cancer genomics, immunogenomics and as of lately SARS-CoV-2. I work at the not for profit research institute TRON ([https://tron-mainz.de/](https://tron-mainz.de/)) and I am eager to contribute on open source projects.
 
+Whatever it says on the top languages dashboard above I have done quite a bit of R, but as of lately I am mostly active in Python and Java. Also I am dedicating quite some time to develop bioinformatic pipelines in Nextflow.
+
 
 Feel free to contact me: [priesgoferreiro@gmail.com](mailto:priesgoferreiro@gmail.com)
 
