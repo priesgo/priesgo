@@ -9,6 +9,7 @@ Whatever it says on the top languages dashboard above I have done quite a bit of
 Feel free to contact me: [priesgoferreiro@gmail.com](mailto:priesgoferreiro@gmail.com)
 
 A demonstration of my poor use of social media:
+
 [![Twitter: priesgof](https://img.shields.io/twitter/follow/priesgof?style=social)](https://twitter.com/priesgof)
 [![Linkedin: pablo-riesgo-ferreiro](https://img.shields.io/badge/-priesgo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-riesgo-ferreiro/)](https://www.linkedin.com/in/pablo-riesgo-ferreiro/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/priesgo?label=follow&style=social)](https://github.com/priesgo)
