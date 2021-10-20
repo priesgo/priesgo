@@ -9,4 +9,4 @@ Feel free to contact me:
 [priesgoferreiro@gmail.com](mailto:priesgoferreiro@gmail.com)
 
 [![twitter](https://img.shields.io/badge/priesgof-twitter-blue)](https://twitter.com/priesgof) 
-[![linkedin](https://img.shields.io/badge/priesgof-LinkedIn-green)](https://www.linkedin.com/in/pablo-riesgo-ferreiro/) 
+[![ORCID](https://img.shields.io/badge/0000-0003-2739-1315-ORCID-green)](https://orcid.org/my-orcid?orcid=0000-0003-2739-1315) 
