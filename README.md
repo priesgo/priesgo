@@ -1,4 +1,14 @@
-### Hi there 👋
+![priesgo’s github
+stats](https://github-readme-stats.vercel.app/api?username=priesgo&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priesgo&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)](https://github.com/priesgo/github-readme-stats)
+
+👋 Hola\! I’m a bioinformatician working at the not for profit research institute TRON on cancer genomics, immunogenomics and as of lately SARS-CoV-2.
+
+
+💬 Ask me anything
+
+[email](mailto:priesgoferreiro@gmail.com)
+[![twitter](https://img.shields.io/badge/priesgof-twitter-ff69b4)](https://twitter.com/priesgof) 
+
 
 <!--
 **priesgo/priesgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
