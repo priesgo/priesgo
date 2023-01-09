@@ -8,7 +8,7 @@ Whatever it says on the top languages dashboard above I have done quite a bit of
 
 Feel free to contact me: [priesgoferreiro@gmail.com](mailto:priesgoferreiro@gmail.com)
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109576190727568577?style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109576190727568577?style=Mastodon)
 [![Linkedin: pablo-riesgo-ferreiro](https://img.shields.io/badge/-priesgo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-riesgo-ferreiro/)](https://www.linkedin.com/in/pablo-riesgo-ferreiro/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/priesgo?label=follow&style=social)](https://github.com/priesgo)
 
