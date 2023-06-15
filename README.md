@@ -1,5 +1,5 @@
-![priesgo’s github
-stats](https://github-readme-stats.vercel.app/api?username=priesgo&show_icons=true&?count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priesgo&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)](https://github.com/priesgo/github-readme-stats)
+[![priesgo GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=priesgo&include_orgs=true)](https://github.com/priesgo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=priesgo&include_orgs=true&hide=html,jupyter%20notebook)](https://github.com/priesgo/github-readme-stats)
 
 👋 Hola\! I’m a bioinformatician interested on variant calling, cancer genomics, immunogenomics and as of lately SARS-CoV-2. I work at the not for profit research institute TRON ([https://tron-mainz.de/](https://tron-mainz.de/)) and I am eager to contribute on open source projects.
 
